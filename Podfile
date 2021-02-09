@@ -12,6 +12,6 @@ pod 'RxKakaoSDKAuth'  # 카카오 로그인
 pod 'RxKakaoSDKUser'  # 사용자 관리
 pod 'RxKakaoSDKTalk'  # 친구, 메시지(카카오톡)
 pod 'RxKakaoSDKLink'  # 메시지(카카오링크)
-pod 'RxKakaoSDKTemplate'  # 메시지 템플릿 
+#pod 'RxKakaoSDKTemplate'  # 메시지 템플릿 
 
 end
